@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi 🙋‍♂️ I'm MohammadReza Shahani
+======
 
-<!--
-**MohiiiReza051/MohiiiReza051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a high school student with a passion for both developing and learning. 👨‍💻
+
+- 🌍  I'm based in Mashhad (Iran)
+- ✉️  You can contact me at [mohammadreza.shahani75@gmail.com](mailto:ce01010101it@gmail.com)
+- 🧠  I'm learning ReactJS
+- 🤝  I'm open to collaborating on Javascript based projects
+- ⚡  ...
+
+### Skills
+
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/MohiiiReza051/MohiiiReza051/blob/main/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/MohiiiReza051/MohiiiReza051/blob/main/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/MohiiiReza051/MohiiiReza051/blob/main/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/MohiiiReza051/MohiiiReza051/blob/main/react-colored.svg" width="36" height="36" alt="React" />
+
+</p>
+
+### Social
+
+<p align="left">
+    <a href="https://t.me/MohiiiReza051" target="_blank" rel="noreferrer"><img src="https://github.com/MohiiiReza051/MohiiiReza051/blob/main/telegram.svg" alt="Telegram" width="42" height="42" /></a>
+</p>
