@@ -8,7 +8,7 @@ Front-End Developer
 I'm a high school student with a passion for both developing and learning. 👨‍💻
 
 - 🌍  I'm based in Mashhad (Iran)
-- ✉️  You can contact me at [mohammadreza.shahani75@gmail.com](mailto:ce01010101it@gmail.com)
+- ✉️  You can contact me at [mohamadreza.shahani75@gmail.com](mailto:ce01010101it@gmail.com)
 - 🧠  I'm learning ReactJS
 - 🤝  I'm open to collaborating on Javascript based projects
 - ⚡  ...
