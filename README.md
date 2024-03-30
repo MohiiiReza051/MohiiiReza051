@@ -21,7 +21,7 @@ I'm a high school student with a passion for both developing and learning. ðŸ‘¨â
     <a href="https://Github.com/" target="_blank" rel="noreferrer"><img src="./icons/github.png" width="36" height="36" alt="Github" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./icons/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/react-colored.svg" width="36" height="36" alt="React" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./icons/Typescript.svg.png" width="36" height="36" alt="TypeScript" /></a>
+
 
 </p>
 
